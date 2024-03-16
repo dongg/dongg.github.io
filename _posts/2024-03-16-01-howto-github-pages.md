@@ -3,9 +3,9 @@ layout: single
 title: '01: github pages 사용법'
 ---
 
-# 01: github pages 사용법
+## 01: github pages 사용법
 
-## github 프로파일 수정
+### github 프로파일 수정
 
 * [깃허브 계정 제대로 꾸미기 (깃허브 프로파일 페이지 → 이력서로 만들기 팁🔥)](https://www.youtube.com/watch?v=w9DfC2BHGPA&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9)
 * 사용자이름과 같은 저장소를 생성: 
@@ -13,7 +13,7 @@ title: '01: github pages 사용법'
       * [v] Add README.md
 * README.md 수정
 
-## github pages 사용법
+### github pages 사용법
 * [깃헙(GitHub) 블로그 10분안에 완성하기](https://www.youtube.com/watch?v=ACzFIAOsfpM&ab_channel=%ED%85%8C%EB%94%94%EB%85%B8%ED%8A%B8TeddyNote)
 
 
