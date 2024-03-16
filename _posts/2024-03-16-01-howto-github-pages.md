@@ -1,9 +1,9 @@
 ---
 layout: single
-title: 'Post 01: Tutorial Github'
+title: '01: github pages 사용법'
 ---
 
-# Post 01: github pages 사용법
+# 01: github pages 사용법
 
 ## github 프로파일 수정
 
